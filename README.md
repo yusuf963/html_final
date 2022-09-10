@@ -12,3 +12,4 @@
 11. create an input type passowrd with palceholder saying "Enter your password"
 12. make the textarea tag to have 40 columns instead of 30
 13. change the year display in the footer to 2022 and git it 22 px of fontsize
+14. Create index.js file, link it to the html and make it display alert on the dom saying "we are done!!"
